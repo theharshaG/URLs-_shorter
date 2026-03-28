@@ -14,15 +14,6 @@ Python
 Standard Libraries (random, string)
 Dictionary data structure
 
-## How to Run
-Clone the repository:
-git clone https://github.com/your-username/url-shortener.git
-Navigate to the project directory:
-cd url-shortener
-
-Run the program:
-python main.py
-
 ## How It Works
 The program generates a random 5-character code using letters and digits.
 Each generated code is mapped to a long URL and stored in a dictionary.
